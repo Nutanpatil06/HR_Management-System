@@ -30,19 +30,28 @@ This project demonstrates real-world frontend architecture with modular design, 
 
 ## 📁 Project Structure
 
-src/
-├── app/
-│ ├── core/
-│ ├── features/
-│ │ ├── dashboard/
-│ │ ├── employee-list/
-│ │ └── leave-list/
-│ ├── services/
-│ │ └── employee.service.ts
-│ ├── app.routes.ts
-│ └── app.config.ts
-├── assets/
-├── styles.css
+HR Management System
+│
+└── src/
+    │
+    ├── app/
+    │   │
+    │   ├── core/
+    │   │
+    │   ├── features/
+    │   │   ├── dashboard/
+    │   │   ├── employee-list/
+    │   │   └── leave-list/
+    │   │
+    │   ├── services/
+    │   │   └── employee.service.ts
+    │   │
+    │   ├── app.routes.ts
+    │   └── app.config.ts
+    │
+    ├── assets/
+    │
+    └── styles.css
 
 
 ---
